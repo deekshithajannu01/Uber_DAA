@@ -1,0 +1,41 @@
+{
+  "name": "Ride Hailing Intelligence",
+  "dataColors": [
+    "#1F6FEB",
+    "#D97706",
+    "#059669",
+    "#DC2626",
+    "#7C3AED",
+    "#0891B2",
+    "#4B5563",
+    "#F59E0B"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#111827",
+  "tableAccent": "#1F6FEB",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#111827"
+              }
+            },
+            "fontSize": 12
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#374151"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
