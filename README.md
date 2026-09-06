@@ -19,25 +19,6 @@ Why this dataset is suitable:
 - Cancellation patterns
 - Useful for classification, SQL analytics, and business recommendations
 
-Place the downloaded CSV inside:
-
-```text
-data/raw/
-```
-
-Recommended filename:
-
-```text
-data/raw/ola_uber_ride_bookings.csv
-```
-
-The pipeline also accepts common names like:
-
-```text
-ncr_ride_bookings.csv
-ride_bookings.csv
-bookings.csv
-```
 
 ## Project Workflow
 
